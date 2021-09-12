@@ -3,11 +3,9 @@ author: Xuting Yuan
   name: GitHub User
   email: 1129802@wku.edu.cn
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm Serafina, a junior. The purpose of this website is to place the my process of the competition on tiny houses I participated in this semester.
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -16,7 +14,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
+    # twitter: jekyllrb
     github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
@@ -54,7 +52,7 @@ minima:
 
 # Build settings
 theme: minima
-
+skin: white
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
