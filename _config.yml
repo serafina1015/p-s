@@ -15,7 +15,7 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    github:  jekyll
+    # github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -52,7 +52,7 @@ minima:
 
 # Build settings
 theme: minima
-skin: white
+skin: dark
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
