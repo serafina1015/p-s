@@ -11,6 +11,15 @@ three pipe with big three window in right angle shape
 
 [Part to Whole - Global to Local](http://keanmgc.github.io/2021fall3yr-studio/)
 
+explanation of the first detailed design：
+
+The two concrete pipes cross vertically and cut off the corners, so that the residents in each pipe can see the front and rear two circular outdoor landscapes, and the people in the middle public space can see a very large oval landscape. The facilities in the house are arranged on both sides of the round pipe. The left and right sides are two private rooms, each with a door to the outside world. However, due to the lack of space, I added a pipe at the "2m" position (it can be installed together after many times of cutting, which is one of the disadvantages) as an extension area of the middle public space and placed the kitchen. I lack the space to place the washing machine, so I also thought about an underground pipe as the space for the washing machine, but I don't know how to increase it, and the area has exceeded 36m ²。 The lack of space also prompted me to separate the bathing space and the toilet on both sides of the kitchen, so that I can also use the kitchen sink as the toilet sink to save space (one of the disadvantages is that it does not meet the requirements).
+
+sketch of the first detailed design:
+
+![微信图片_202109241416001](https://user-images.githubusercontent.com/90553458/134696388-5810703c-3411-4985-8fd5-27b44b2cc4fd.jpg)
+![微信图片_202109241416002](https://user-images.githubusercontent.com/90553458/134696396-7f37ac27-4020-40da-b5f6-715b09c2c83f.jpg)
+
 
 First plan of design：
 
