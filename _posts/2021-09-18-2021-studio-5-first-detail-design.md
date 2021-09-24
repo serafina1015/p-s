@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "first detail design"
+title: "the first detailed design"
 categories: studio project
 author:
 - Serafina (Xuting Yuan)
