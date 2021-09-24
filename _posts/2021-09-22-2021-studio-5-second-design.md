@@ -30,7 +30,7 @@ second section of design：
 
 <img width="795" alt="捕获1" src="https://user-images.githubusercontent.com/90553458/134706774-337f3096-9e23-4dcb-bf82-4a8cbf372f5b.PNG">
 
-first massing model in rhino：
+second massing model in rhino：
 
 <img width="294" alt="捕获2" src="https://user-images.githubusercontent.com/90553458/134706798-27ec693f-b470-4262-be80-a10ea28f70a8.PNG">
 
