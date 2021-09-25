@@ -50,6 +50,54 @@ from https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%BB%BA
 
 
 
+Changed to a wall mounted toilet:
+
+![R-C](https://user-images.githubusercontent.com/90553458/134776606-9b8e8702-cf7b-4d3a-8cb5-820b4b50a804.jpg)
+from https://cn.bing.com/images/search?view=detailV2&ccid=xYcC%2fxAy&id=848DCEF17CED1FD19159BD99EE11A507E08BE042&thid=OIP.xYcC_xAypdurTPD2IazgkgAAAA&mediaurl=https%3a%2f%2ftse1-mm.cn.bing.net%2fth%2fid%2fR-C.c58702ff1032a5dbab4cf0f621ace092%3frik%3dQuCL4AelEe6ZvQ%26riu%3dhttp%253a%252f%252fimg1n.soufun.com%252fhomebbs%252f2008_11%252f07%252fbj%252f1226051496942_000.jpg%26ehk%3d93ESuwFk%252bMIg00Gk5y4Thc1g3as2vNAXuTOLpz4ytKc%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=600&expw=430&q=%e5%a3%81%e6%8c%82%e5%bc%8f%e9%a9%ac%e6%a1%b6%e7%9a%84%e5%b0%ba%e5%af%b8&simid=608007540640150179&FORM=IRPRST&ck=363A850122D1F1DAA1BEF5C9122B8CF6&selectedIndex=0&ajaxhist=0&ajaxserp=0
+
+Lamps found for buildings: floor lamps can avoid unsightly exposure of wires to walls.
+
+![src=http___imgservice suning cn_uimg1_b2c_image_iuxKaSL98qQ-BpwJKJJ_Kg jpg_800w_800h_4e refer=http___imgservice suning](https://user-images.githubusercontent.com/90553458/134776631-c4809658-7447-48df-9e69-b329dcdd8163.jpg)
+from http://www.suning.com/itemvideo/0071293078/000000012265664748.html
+
+Finally, it is planned to choose the annular lamp belt (two kinds are good choices, as shown in the picture below), because this can be attached to the pipe cut with an inner diameter of 2M and powered by the lower part of the floor to make the space cleaner.
+
+![src=http___cbu01 alicdn com_img_ibank_2019_402_984_12037489204_1380218821 jpg refer=http___cbu01 alicdn](https://user-images.githubusercontent.com/90553458/134776654-b6725063-1a4e-4f33-83b1-04ac85dd1ffa.jpg)
+from https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=2m%E7%9B%B4%E5%BE%84%E7%8E%AF%E5%BD%A2%E7%81%AF%E5%B8%A6&step_word=&hs=0&pn=45&spn=0&di=2860&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=1665965979%2C1432228615&os=694627763%2C2442703563&simid=0%2C0&adpicid=0&lpn=0&ln=1798&fr=&fmq=1632578968781_R&fm=result&ic=&s=undefined&hd=&latest=&copyright=&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2Fcbu01.alicdn.com%2Fimg%2Fibank%2F2019%2F402%2F984%2F12037489204_1380218821.jpg%26refer%3Dhttp%3A%2F%2Fcbu01.alicdn.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg%3Fsec%3D1635171058%26t%3D8078764a5f25bd9b92ec3d0b2f659071&fromurl=ippr_z2C%24qAzdH3FAzdH3F1jpwts_z%26e3B8mbb_z%26e3Bv54AzdH3F5uuj6AzdH3Fmadc98mmcanb_z%26e3Bip4s&gsm=2e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined
+
+![src=http___cbu01 alicdn com_img_ibank_2019_726_035_13042530627_1292053356 jpg refer=http___cbu01 alicdn](https://user-images.githubusercontent.com/90553458/134776657-f58b7827-6c7d-4583-a78c-1d96bb9f7050.jpg)
+from https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=2m%E7%9B%B4%E5%BE%84%E7%8E%AF%E5%BD%A2%E7%81%AF&step_word=&hs=0&pn=22&spn=0&di=119350&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=560249755%2C2613074409&os=606997353%2C2355694318&simid=560249755%2C2613074409&adpicid=0&lpn=0&ln=1651&fr=&fmq=1632565989951_R&fm=result&ic=&s=undefined&hd=&latest=&copyright=&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2Fcbu01.alicdn.com%2Fimg%2Fibank%2F2019%2F726%2F035%2F13042530627_1292053356.jpg%26refer%3Dhttp%3A%2F%2Fcbu01.alicdn.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg%3Fsec%3D1635158088%26t%3D2ab677ba83bd0028737c0e3c0774249a&fromurl=ippr_z2C%24qAzdH3FAzdH3F1jpwts_z%26e3B8mbb_z%26e3Bv54AzdH3F5uuj6AzdH3Fm8an88nacb0b_z%26e3Bip4s&gsm=17&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined
+
+Lamp above shower head:(which is a kind of waterproof lamp on the enclosing wall)
+
+![src=http___img alicdn com_tfscom_i2_1667399970_TB25Wv3aVXXXXcRXpXXXXXXXXXX_!!1667399970 jpg refer=http___img alicdn](https://user-images.githubusercontent.com/90553458/134776916-884db48c-d051-4b9b-b26f-9edd3a70b887.jpg)
+from https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%9B%B4%E5%A2%99%E7%81%AF&step_word=&hs=0&pn=140&spn=0&di=62810&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=1294051881%2C3523901135&os=4221329507%2C3390990521&simid=3468478407%2C400457010&adpicid=0&lpn=0&ln=1955&fr=&fmq=1632565359847_R&fm=result&ic=&s=undefined&hd=&latest=&copyright=&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2Fimg.alicdn.com%2Ftfscom%2Fi2%2F1667399970%2FTB25Wv3aVXXXXcRXpXXXXXXXXXX_!!1667399970.jpg%26refer%3Dhttp%3A%2F%2Fimg.alicdn.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg%3Fsec%3D1635157385%26t%3D9a6599c62f66fdd2a04598f071b6ba4a&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B9ndcda_z%26e3Bv54AzdH3Ffi5rrtg2AzdH3Fncc8mabcccd_z%26e3Bip4s&gsm=88&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined
+
+0r      use the flexible lamp belt (showed in the picture above)(maybe it's better)
+
+Novel door:
+
+![1619352923_maxresdefault](https://user-images.githubusercontent.com/90553458/134777166-5182b527-f806-4a21-8f1d-0d082edb6720.jpg)
+from https://www.youtube.com/watch?v=qX7sAzB0HEE
+
+Sunshade equipment for skylight:
+
+![HTB1AWhDJpXXXXcZXFXXq6xXFXXXU](https://user-images.githubusercontent.com/90553458/134777208-d492eac2-8b6a-40d0-a8b1-de9f8aeeae61.jpg)
+from https://www.alibaba.com/product-detail/manual-awning-gear-box-skylight-Indoor_60042684669.html
+
+![HTB1tahyJpXXXXbeXVXXq6xXFXXXI](https://user-images.githubusercontent.com/90553458/134777249-51de3c69-89be-4a1f-b516-00c9e7d09c18.jpg)
+from https://www.alibaba.com/product-detail/aluminum-sun-shade-roof-awning-glass_60021987715.html
+
+Newly added concrete pipe:
+
+<img width="510" alt="1632581224(1)" src="https://user-images.githubusercontent.com/90553458/134777331-cfd2da0c-6005-4dd2-ae28-eb976fe9d192.png">
+
+
+
+
+
+
+
 
 
 
