@@ -55,14 +55,16 @@ Changed to a wall mounted toilet:
 ![R-C](https://user-images.githubusercontent.com/90553458/134776606-9b8e8702-cf7b-4d3a-8cb5-820b4b50a804.jpg)
 from https://cn.bing.com/images/search?view=detailV2&ccid=xYcC%2fxAy&id=848DCEF17CED1FD19159BD99EE11A507E08BE042&thid=OIP.xYcC_xAypdurTPD2IazgkgAAAA&mediaurl=https%3a%2f%2ftse1-mm.cn.bing.net%2fth%2fid%2fR-C.c58702ff1032a5dbab4cf0f621ace092%3frik%3dQuCL4AelEe6ZvQ%26riu%3dhttp%253a%252f%252fimg1n.soufun.com%252fhomebbs%252f2008_11%252f07%252fbj%252f1226051496942_000.jpg%26ehk%3d93ESuwFk%252bMIg00Gk5y4Thc1g3as2vNAXuTOLpz4ytKc%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=600&expw=430&q=%e5%a3%81%e6%8c%82%e5%bc%8f%e9%a9%ac%e6%a1%b6%e7%9a%84%e5%b0%ba%e5%af%b8&simid=608007540640150179&FORM=IRPRST&ck=363A850122D1F1DAA1BEF5C9122B8CF6&selectedIndex=0&ajaxhist=0&ajaxserp=0
 
-Lamps found for buildings: floor lamps can avoid unsightly exposure of wires to walls.
+Lamps found for buildings: Floor lamps can prevent wires from being exposed to the wall
 
-![src=http___imgservice suning cn_uimg1_b2c_image_iuxKaSL98qQ-BpwJKJJ_Kg jpg_800w_800h_4e refer=http___imgservice suning](https://user-images.githubusercontent.com/90553458/134776631-c4809658-7447-48df-9e69-b329dcdd8163.jpg)
+![src=http___imgservice suning cn_uimg1_b2c_image_iuxKaSL98qQ-BpwJKJJ_Kg jpg_800w_800h_4e refer=http___imgservice suning](https://user-images.githubusercontent.com/90553458/134783960-a3ddd6f0-1362-4b12-b813-8cfce3dac90e.jpg)
+
 from http://www.suning.com/itemvideo/0071293078/000000012265664748.html
 
 Finally, it is planned to choose the annular lamp belt (two kinds are good choices, as shown in the picture below), because this can be attached to the pipe cut with an inner diameter of 2M and powered by the lower part of the floor to make the space cleaner.
 
 ![src=http___cbu01 alicdn com_img_ibank_2019_402_984_12037489204_1380218821 jpg refer=http___cbu01 alicdn](https://user-images.githubusercontent.com/90553458/134776654-b6725063-1a4e-4f33-83b1-04ac85dd1ffa.jpg)
+
 from https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=2m%E7%9B%B4%E5%BE%84%E7%8E%AF%E5%BD%A2%E7%81%AF%E5%B8%A6&step_word=&hs=0&pn=45&spn=0&di=2860&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=1665965979%2C1432228615&os=694627763%2C2442703563&simid=0%2C0&adpicid=0&lpn=0&ln=1798&fr=&fmq=1632578968781_R&fm=result&ic=&s=undefined&hd=&latest=&copyright=&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2Fcbu01.alicdn.com%2Fimg%2Fibank%2F2019%2F402%2F984%2F12037489204_1380218821.jpg%26refer%3Dhttp%3A%2F%2Fcbu01.alicdn.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg%3Fsec%3D1635171058%26t%3D8078764a5f25bd9b92ec3d0b2f659071&fromurl=ippr_z2C%24qAzdH3FAzdH3F1jpwts_z%26e3B8mbb_z%26e3Bv54AzdH3F5uuj6AzdH3Fmadc98mmcanb_z%26e3Bip4s&gsm=2e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined
 
 ![src=http___cbu01 alicdn com_img_ibank_2019_726_035_13042530627_1292053356 jpg refer=http___cbu01 alicdn](https://user-images.githubusercontent.com/90553458/134776657-f58b7827-6c7d-4583-a78c-1d96bb9f7050.jpg)
@@ -122,7 +124,6 @@ Revised rhino model:
 <img width="710" alt="顶部" src="https://user-images.githubusercontent.com/90553458/134783723-fa5b589c-520e-4115-b0c1-41123bfca315.PNG">
 
 
-Modification Descriptio
 
 Professor's modification comments:
 
@@ -131,6 +132,7 @@ Professor's modification comments:
 ![微信图片_20210926000538](https://user-images.githubusercontent.com/90553458/134783750-4e24c558-5eb0-4cc7-8db6-cd10187ba53c.jpg)
 
 
+Modification Description：
 
 
 
