@@ -95,6 +95,42 @@ Newly added concrete pipe:
 
 
 
+Revised plan:
+
+<img width="796" alt="plan9 26" src="https://user-images.githubusercontent.com/90553458/134783693-b6b4d900-5650-48b1-b0cc-1bfdc211c757.PNG">
+
+
+Revised section:
+
+<img width="799" alt="section9 26" src="https://user-images.githubusercontent.com/90553458/134783698-e2b2f38a-c723-42dd-944b-abc48e9e42d2.PNG">
+
+
+Revised rhino model:
+
+<img width="668" alt="厕所的花门" src="https://user-images.githubusercontent.com/90553458/134783713-8fed1ffe-a60b-4693-9087-5a5491427608.PNG">
+
+<img width="807" alt="厕所门" src="https://user-images.githubusercontent.com/90553458/134783714-f85728eb-1135-4e3d-8e75-442423213e21.PNG">
+
+<img width="640" alt="外侧鱼缸" src="https://user-images.githubusercontent.com/90553458/134783726-cde6da88-cd95-4c20-a88b-94f950745baa.PNG">
+
+<img width="725" alt="厨房餐桌" src="https://user-images.githubusercontent.com/90553458/134783717-ac732ae8-850d-4c24-838f-05efef9214f8.PNG">
+
+<img width="690" alt="阅读空间接触自然" src="https://user-images.githubusercontent.com/90553458/134783718-c3c87b62-2ec2-41c2-bcf9-03d1f2c676df.PNG">
+
+<img width="522" alt="大门" src="https://user-images.githubusercontent.com/90553458/134783719-2193dd66-6406-4196-a30f-358bdd78ee14.PNG">
+
+<img width="710" alt="顶部" src="https://user-images.githubusercontent.com/90553458/134783723-fa5b589c-520e-4115-b0c1-41123bfca315.PNG">
+
+
+Modification Descriptio
+
+Professor's modification comments:
+
+![微信图片_20210925234409](https://user-images.githubusercontent.com/90553458/134783748-e45e94fa-19d1-40bd-8f15-fe8c62333a9f.jpg)
+
+![微信图片_20210926000538](https://user-images.githubusercontent.com/90553458/134783750-4e24c558-5eb0-4cc7-8db6-cd10187ba53c.jpg)
+
+
 
 
 
