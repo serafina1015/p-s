@@ -25,6 +25,7 @@ from http://www.xghbjc.com/product/gcfsxl/139.html?sdclkid=ALf615f6xrDixO-pxO-&b
 
 
 Reason for selecting rock wool:
+
 Rock wool is an excellent and cheap thermal insulation material. The most important thing is that it can be used for pipe casing.
 
 “rock wool and their products：
