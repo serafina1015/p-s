@@ -12,7 +12,7 @@ Add thermal insulation material outside the pipe + improvement
 [Part to Whole - Global to Local](http://keanmgc.github.io/2021fall3yr-studio/)
 
 
-Material for thermal insulation: rock wool and reflective thermal insulation coating
+Material for thermal insulation: rock wool or reflective thermal insulation coating
 
 ![375343e11399213d](https://user-images.githubusercontent.com/90553458/134766229-cdc34a88-8ec3-4642-bd12-8ea7e6de8708.jpg)
 
