@@ -33,7 +33,10 @@ from https://tujixiazai.com/biaozhuntuji/332479.html
 
 explanation of the first detailed design：
 
-By placing furniture in the model, the design becomes more reasonable. A space similar to the balcony is reserved outside the toilet, which also ensures a certain degree of privacy.
+The first task is to find the specification of the inspection well, and it will be manufactured in large quantities as far as possible. What I found is in the above picture, but the two largest openings of the rectangular inspection well of the cross can only place concrete pipes with a maximum inner diameter of 2m, and the other two openings are only 1.5m in diameter, so these two openings only serve as windows, and the overall shape has been changed from T-shape to I-shape. The change of shape is also because the inspection well in the middle serves as the function of bedroom, study and public space, so only two more pipes need to be left as the kitchen and bathroom. Due to the limitation of manhole specifications, I arranged two pipes with an inner diameter of 2m as the channel connecting the 3M inner diameter and the manhole, and as the space for the door, isolating the middle space and the toilet and kitchen space on both sides. This arrangement also provides an interesting new idea, that is, the 2m inner diameter concrete pipe limits the view of residents in the inspection well to the 3M inner diameter pipe, and hides the furniture in the 3M inner diameter pipe. In addition, planting plants above the 2m inner diameter pipe can provide green scenery for the residents in the 3M inner diameter pipe. By placing furniture in the model, the design becomes more reasonable. In the space above the inspection well, I arranged glass as a skylight, and residents can climb to the top through the outer wall to carry out activities. In the middle inspection well, the corner space beside the 2m pipe serves as a bookshelf and wine rack. Beyond the linear space of the pipe with an inner diameter of 2m is the space for bed and desk. The bathroom compartment and the washing machine are particularly placed in the toilet space on the right. The washing machine uses the space at the edge of the pipe, and the water supply pipes of the bathroom and the washing machine are hidden through the space below the washing machine.A space similar to the balcony is reserved outside the toilet, which also ensures a certain degree of privacy.
+Finally, I sink the building into the ground, which can not only stabilize the structure, but also the green plants on the windows of the inspection well can serve as the continuation of the external environment and create a more natural space experience for the bedroom. 
+
+
 
 third plan of design：
 
@@ -56,6 +59,8 @@ third detailed model in rhino with furniture：
 <img width="768" alt="内3" src="https://user-images.githubusercontent.com/90553458/134714062-7f530a70-2439-41ca-af18-e4a2ffb891f7.PNG">
 
 <img width="713" alt="内4" src="https://user-images.githubusercontent.com/90553458/134714074-f090a818-df3d-4c58-ab38-1baf0ffb6235.PNG">
+
+<img width="642" alt="窗户" src="https://user-images.githubusercontent.com/90553458/134762853-adcb02aa-302c-47ea-932d-65bceb9ee519.PNG">
 
 <img width="444" alt="东" src="https://user-images.githubusercontent.com/90553458/134714063-1828ec64-5939-4daf-8d79-6bc6aed2a467.PNG">
 
