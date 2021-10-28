@@ -64,6 +64,13 @@ Dimension drawing of hanging chair
 
 Where the model is modified:
 
+A vine climbing plant frame is added, a rocking chair is placed under the vine climbing frame, and half of the windows are used as tables.
+
+The decoration on the edge of the middle revolving door is removed to save space and cost.
+
+(the position of the rocking chair is actually better indoors, but considering that there is no spare space, it is planned to hang it in the concrete pipe as a public space and remove the support structure)
+
+
 <img width="498" alt="葡萄架" src="https://user-images.githubusercontent.com/90553458/135129705-697f961d-35cd-4fca-aec5-ef8be5c34404.PNG">
 
 <img width="448" alt="外喝茶" src="https://user-images.githubusercontent.com/90553458/135129730-c5752335-4ebf-43d0-b7c1-fd32abcca254.PNG">
