@@ -98,6 +98,16 @@ Newly added concrete pipe:
 
 
 
+Modified place:
+
+Change the framed bathroom compartment into a shower curtain.
+
+A rotatable wooden door is added.
+
+Added some furniture, such as sunshades and lamps.
+
+In the middle of the revolving door, I made some complex decorations so that the door can be locked (meaningless, later deleted)
+
 
 Revised plan:
 
@@ -136,6 +146,9 @@ Professor's modification comments:
 
 Modification Description：
 
+1. Separate concrete pipes as public space.
+
+2. Keep the height of the floor inside the building at the same height as the ground outside.
 
 
 
