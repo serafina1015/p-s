@@ -15,3 +15,5 @@ author:
 
 
 The principle of symmetry is adopted. Put the floor plan showing space division and human activities on the top. In order to balance the color of the picture, the section is placed at the bottom. The external landscape showing the combination of the building and the external public space is placed in the middle.
+
+After this practice, I change a lot on the panel, especially the tecnology used in the building and the dimensions.
