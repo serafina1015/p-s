@@ -12,6 +12,9 @@ author:
 [Part to Whole - Global to Local](http://keanmgc.github.io/2021fall3yr-studio/)
 
 
+
+I added the surrounding environment in rhino's Enscape, including fallen leaves.
+
 ![Enscape_2021-10-11-00-42-42](https://user-images.githubusercontent.com/90553458/138114644-afc6ac24-858e-4850-93ad-4dace696f425.png)
 
 ![Enscape_2021-10-11-00-20-57](https://user-images.githubusercontent.com/90553458/138114541-9ac7b2da-9ae0-49d5-b6d2-599036d73f5e.png)
